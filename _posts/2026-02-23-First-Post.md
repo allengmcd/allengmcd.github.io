@@ -14,7 +14,7 @@ This site serves as showcase for my skillset. I built it using **Jekyll** and **
 
 **What I learned building this:**
 * **Static Site Generators:** Understanding how Jekyll transforms Markdown into HTML.
-* **Liquid Templating:** Using logic like `{% for post in site.posts %}` to easily add in new posts/projects.
+* **Liquid Templating:** Allow easily adding in new posts/projects.
 * **Web Architecture:** Setting up a clean directory structure and `_config.yml` settings.
 
 **Technical Stack:**
