@@ -2,8 +2,30 @@
 ---
 @import "{{ site.theme }}";
 
-// Add your custom CSS below, for example:
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
 body {
-    color: #333;
-    background-color: #f4f4f4;
+  font-family: 'Inter', sans-serif;
+  color: #334155; /* Slate Gray instead of pure Black */
+}
+
+header {
+  border-right: 2px solid #3b82f6; /* Adds a blue accent stripe */
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px; /* Rounded corners for a modern look */
 }
