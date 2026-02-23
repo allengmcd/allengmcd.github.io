@@ -25,5 +25,6 @@ This site serves as showcase for my skillset. I built it using **Jekyll** and **
 **Hardware Stack:**
 * **TM4C123G:** Arm Cortex-M4 microcontroller from Texas Instruments ![Alt Text](/assets/images/TM4C123G.jpg)
 * **TMCM-3216:** A 3-Axis Trinamic Motion Cotrol Module for controlling stepper motors [![Watch the video](https://img.youtube.com/vi/Jlf3BCdi_8U/0.jpg)](https://www.youtube.com/watch?v=Jlf3BCdi_8U)
+* **TMCM-1111:** A single Axis TMCM <iframe width="560" height="315" src="https://www.youtube.com/embed/i1jCk4xQvZ0?si=g5vc55uGOzUQVH-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 *Check back soon as I add more projects to this gallery!*
