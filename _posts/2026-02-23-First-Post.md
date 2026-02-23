@@ -1,16 +1,26 @@
 ---
 layout: post
-title: "My First Post"
+title: "My Personal Website"
 date: 2026-02-23
 categories: projects
 ---
 
+**[← Back to Home](/)** | **[📂 View All Projects](/projects/)**
+
+---
+
 ### Project Overview
-I am trying to build a github pages site so employers can see my skillset
+This site serves as showcase for my skillset. I built it using **Jekyll** and **GitHub Pages**.
 
-**Tech Stack:**
-* github
-* CSS3
-* yaml
+**What I learned building this:**
+* **Static Site Generators:** Understanding how Jekyll transforms Markdown into HTML.
+* **Liquid Templating:** Using logic like `{% for post in site.posts %}` to easily add in new posts/projects.
+* **Web Architecture:** Setting up a clean directory structure and `_config.yml` settings.
 
-[Link to Repo]([https://github.com/allengmcd/weather-app](https://github.com/allengmcd/allengmcd.github.io))
+**Technical Stack:**
+* **Framework:** Jekyll
+* **Theme:** Minimal
+* **Deployment:** GitHub Actions / Pages
+
+---
+*Check back soon as I add more projects to this gallery!*
