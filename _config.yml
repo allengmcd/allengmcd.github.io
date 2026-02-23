@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
-title: Allen McDermott's homepage
-description: Website under construction. Looking for work!
+title: Allen McDermott
+description: Software Developer | Seeking New Opportunities
+remote_theme: pages-themes/minimal@v0.2.0
+
+# These show up in the sidebar of the Minimal theme automatically
+github_username: allengmcd
+# linkedin_username: your-profile-name 
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
