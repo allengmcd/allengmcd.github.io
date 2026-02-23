@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Projects"
+title: Projects
 permalink: /projects/
+---
 
-
-This is a test
+### My Featured Projects
+This is a test to see if the page loads!
