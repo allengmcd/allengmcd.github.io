@@ -1,11 +1,10 @@
 theme: jekyll-theme-minimal
-title: Allen McDermott
-description: Website under construction | Software Developer | Seeking New Opportunities
-remote_theme: pages-themes/minimal@v0.2.0
-
-# These show up in the sidebar of the Minimal theme automatically
+title: Allen McDermott's homepage
+description: >
+  Website under construction | Software Developer | Seeking New Opportunities <br>
+  <a href="https://www.linkedin.com/in/allen-mcdermott-2038863b2">View LinkedIn Profile</a>
+author: Allen McDermott  
 github_username: allengmcd
-# linkedin_username: your-profile-name 
 
 # Build settings
 markdown: kramdown
