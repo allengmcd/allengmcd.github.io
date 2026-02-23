@@ -13,4 +13,4 @@ I am trying to build a github pages site so employers can see my skillset
 * CSS3
 * yaml
 
-[Link to Repo](https://github.com/allengmcd/weather-app)
+[Link to Repo]([https://github.com/allengmcd/weather-app](https://github.com/allengmcd/allengmcd.github.io))
